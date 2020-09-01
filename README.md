@@ -1,1 +1,1 @@
-# samplePlanetaryService
+# planetary-api
