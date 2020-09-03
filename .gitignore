@@ -1,0 +1,17 @@
+# pyenv files
+.python-version
+
+# virtualenv files
+venv*
+
+# IDE files
+.idea/*
+
+# DB files
+*.db
+
+# secrets
+set_credential.sh
+
+# compiled python
+__pycache__/*
